@@ -4,3 +4,4 @@ transformers[sentencepiece]
 accelerate
 peft
 streamlit
+torch
