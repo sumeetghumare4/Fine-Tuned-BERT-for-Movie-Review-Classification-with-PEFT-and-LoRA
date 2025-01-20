@@ -60,6 +60,12 @@ Alternatively, you can run the script directly:
 ```bash
 python src/fine_tuned_bert_for_movie_review_classification.py
 ```
+### Run the Streamlit
+
+First navigate the streamlit repo and then execute below command:
+```bash
+streamlit run app.py
+```
 
 ## Project Structure
 
